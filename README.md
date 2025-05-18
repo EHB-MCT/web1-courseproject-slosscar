@@ -1,0 +1,4 @@
+Het idee achter mijn project was om een CV te maken over een fictief karakter in dit geval het speler personage van de 2d game terraria. Mijn site wijkt af van een klassiek Cv maar ik heb grotendeels gefocust op de layout.
+ik heb twee versies, 1 voor computer en 1 voor mobiel. Ik heb mijn desktop versie gemaakt met het thema van de overworld van Terraria sinds het gaat over het karakter van Terraria. En de gsm versie heb ik gemaakt in het thema van de corruption. dit heb ik niet gedaan om een specifieke reden buiten dat ik er zin in had.
+voor de mobiele versie heb ik de linker zijbalk kleiner gemaakt en het lettertype voor alles ook verkleind
+uitleg van de code staat grotendeels in mijn css en een beetje in mijn education.html folder. ik heb niet voor alles uitleg gegeven maar enkel voor de details waar ik moeite mee had.
